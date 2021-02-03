@@ -1,4 +1,4 @@
-# Which-variables-of-a-match-of-Dota-2-most-correlate-a-team-s-GPM-
+# What-predicts-victory-in-Dota-2 
 Final Project for COGS 109
 
 Project Members: 
